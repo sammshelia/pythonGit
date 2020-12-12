@@ -5,7 +5,7 @@ Firstname = input("Enter First Name: ")
 Lastname = input("Enter Last Name: ")
 Midddlename = input("Enter Middlename: ")
 Phonenumber = input("Enter your  Phone number: ")
-Balance = 25000
+Balance = 2500
 
 # Stored Nuban numbers
 Nubanaccts = [6032795095, 4646095300, 8884995437, 4004298057, 4045952615]
